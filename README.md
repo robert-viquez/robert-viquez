@@ -4,12 +4,11 @@
 </div>
   
 ## About me
-  I'm a Financial Analyst looking forward to get into the IT industry. 
 - 👀 Interested in Networking, Software Development and CyberSecurity.
 - 🌱 Currently learning HTML, CSS and JavaScript (hence the website)
-- 🌐 Personal Website: [robertviquez.dev](https://robertviquez.dev/). (Under Construction)
-- 🎓 Pursuing a degree in Systems Engineering @ Universidad Internacional de las Américas
-- ⚡ Fun fact: Started coding in Excel VBA
+- 🌐 Personal Website: [robertviquez.dev](https://robertviquez.com/). 
+- 🎓 Pursuing a degree in Systems Engineering @Universidad Internacional de las Américas
+- ⚡ Fun fact: Started coding with Excel VBA
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
