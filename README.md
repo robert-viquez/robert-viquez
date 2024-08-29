@@ -6,7 +6,7 @@
 ## About me
 - 👀 Interested in Networking, Software Development and CyberSecurity.
 - 🌱 Currently learning HTML, CSS and JavaScript (hence the website)
-- 🌐 Personal Website: [robertviquez.dev](https://robertviquez.com/). 
+- 🌐 Personal Website: [robertviquez.com](https://robertviquez.com/). 
 - 🎓 Pursuing a degree in Systems Engineering @Universidad Internacional de las Américas
 - ⚡ Fun fact: Started coding with Excel VBA
 <br>
