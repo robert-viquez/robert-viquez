@@ -5,10 +5,10 @@
 
 ## About me
 - 👀 Interested in Networking, Software Development and CyberSecurity.
-- 🌱 Actively learning Python, currently. Flask
+- 🌱 Learning Flask, currently. 
 - 🌐 Personal Website: [robertviquez.com](https://robertviquez.com/). 
 - 🎓 Pursuing a degree in Systems Engineering @Universidad Internacional de las Américas
-- ⚡ Fun fact: Started coding with Visual Basic for Applications
+- ⚡ Fun fact: Excel Macros got me into coding
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
