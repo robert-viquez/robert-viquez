@@ -14,7 +14,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/rvqzs">
+<a href="https://github.com/robert-viquez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=robert-viquez&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=robert-viquez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
